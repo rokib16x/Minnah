@@ -46,7 +46,7 @@ Simplify zakat calculations based on Islamic principles.
 ### Salah Time
 Set customizable prayer time alarms.
 
-<img src"/screenshots/SalahTime.jpg" width="200">
+<img src="/screenshots/SalahTime.jpg" width="200">
 
 ### Tasbih
 A digital tasbih for counting tasbih and dhikr.
