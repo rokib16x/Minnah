@@ -1,4 +1,4 @@
-# Minnah App
+# Minnah - <sub>[Unleash the Power of Faith Within You]</sub>
 
 The "Minnah" application is a pioneering leap in the realm of modern technology, focusing on enriching the religious practices and spiritual journey of Muslims. It provides a comprehensive platform for Muslims to enhance their connection to faith through a range of features.
 
@@ -13,53 +13,52 @@ The "Minnah" application is a pioneering leap in the realm of modern technology,
 
 ## Features
 
+### Home Screen
 ![Home Screen](/screenshots/HomeScreen.jpg)
 
 ### Al-Quran: Quranic Exploration
 Comprehensive access to Quranic verses, translations, and explanations (tafsir) for a deeper understanding.
 
-![Al-Quran Screenshot 1](/screenshots/AllTheVerse.jpg)
-![Al-Quran Screenshot 2](/screenshots/ReadVerse.jpg)
+<img src="/screenshots/AllTheVerse.jpg" width="300">
+<img src="/screenshots/ReadVerse.jpg" width="300">
 
 ### Asma-ul-Husna 
 Access to the 99 Asma-ul-Husna
 
-![Asma-ul-Husna](/screenshots/AsmaAlHusna.jpg)
+<img src="/screenshots/AsmaAlHusna.jpg" width="300">
 
 ### Mosque Near Me
 Find nearby mosques for congregational prayers and community activities.
 
-![Mosque Near Me Screenshot](/screenshots/MosqueNearMe.jpg)
+<img src="/screenshots/MosqueNearMe.jpg" width="300">
 
 ### Zakat Calculator
 Simplify zakat calculations based on Islamic principles.
 
-![Zakat Calculator Screenshot](/screenshots/ZakatCalculator.jpg)
+<img src="/screenshots/ZakatCalculator.jpg" width="300">
 
 ### Salah Time
 Set customizable prayer time alarms.
 
-![Alarm For Salah Screenshot](/screenshots/SalahTime.jpg)
+<img src="/screenshots/SalahTime.jpg" width="300">
 
 ### Tasbih
 A digital tasbih for counting tasbih and dhikr.
 
-![Tasbih Screenshot](/screenshots/Tasbih.jpg)
+<img src="/screenshots/Tasbih.jpg" width="300">
 
 ### Donation
 Facilitate charitable donations to trusted organizations.
 
-![Donation Screenshot 1](/screenshots/DonatePage.jpg)
-![Donation Screenshot 2](/screenshots/DonationToMinnah.jpg)
-![Donation Screenshot 3](/screenshots/DonationToCharity.jpg)
-
+<img src="/screenshots/DonatePage.jpg" width="300">
+<img src="/screenshots/DonationToMinnah.jpg" width="300">
+<img src="/screenshots/DonationToCharity.jpg" width="300">
 
 ### Game
 Enjoy a digital quiz to test your knowledge.
 
-![Game Screenshot 1](/screenshots/Quiz.jpg)
-![Game Screenshot 2](/screenshots/ScoreQuiz.jpg)
-
+<img src="/screenshots/Quiz.jpg" width="300">
+<img src="/screenshots/ScoreQuiz.jpg" width="300">
 
 ### Feedback
 Provide feedback to improve the application.
@@ -90,4 +89,3 @@ We welcome contributions to the Minnah App. To contribute, please follow these s
 2. Create a new branch for your feature or bug fix
 3. Make your changes and commit them
 4. Push to your fork and submit a pull request
-
