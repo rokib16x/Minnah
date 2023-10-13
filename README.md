@@ -1,4 +1,5 @@
-# Minnah - <sub>[Unleash the Power of Faith Within You]</sub>
+# Minnah 
+<sub>[Unleash the Power of Faith Within You]</sub>
 
 The "Minnah" application is a pioneering leap in the realm of modern technology, focusing on enriching the religious practices and spiritual journey of Muslims. It provides a comprehensive platform for Muslims to enhance their connection to faith through a range of features.
 
@@ -20,8 +21,12 @@ The "Minnah" application is a pioneering leap in the realm of modern technology,
 ### Al-Quran: Quranic Exploration
 Comprehensive access to Quranic verses, translations, and explanations (tafsir) for a deeper understanding.
 
-<img src="/screenshots/AllTheVerse.jpg" width="300">
-<img src="/screenshots/ReadVerse.jpg" width="300">
+<table>
+  <tr>
+    <td><img src="/screenshots/AllTheVerse.jpg" width="200"></td>
+    <td><img src="/screenshots/ReadVerse.jpg" width="200"></td>
+  </tr>
+</table>
 
 ### Asma-ul-Husna 
 Access to the 99 Asma-ul-Husna
@@ -41,7 +46,12 @@ Simplify zakat calculations based on Islamic principles.
 ### Salah Time
 Set customizable prayer time alarms.
 
-<img src="/screenshots/SalahTime.jpg" width="300">
+<table>
+  <tr>
+    <td><img src="/screenshots/SalahTime.jpg" width="200"></td>
+    <td><img src"/screenshots/AnotherSalahTime.jpg" width="200"></td>
+  </tr>
+</table>
 
 ### Tasbih
 A digital tasbih for counting tasbih and dhikr.
@@ -51,20 +61,28 @@ A digital tasbih for counting tasbih and dhikr.
 ### Donation
 Facilitate charitable donations to trusted organizations.
 
-<img src="/screenshots/DonatePage.jpg" width="300">
-<img src="/screenshots/DonationToMinnah.jpg" width="300">
-<img src="/screenshots/DonationToCharity.jpg" width="300">
+<table>
+  <tr>
+    <td><img src="/screenshots/DonatePage.jpg" width="200"></td>
+    <td><img src="/screenshots/DonationToMinnah.jpg" width="200"></td>
+    <td><img src="/screenshots/DonationToCharity.jpg" width="200"></td>
+  </tr>
+</table>
 
 ### Game
 Enjoy a digital quiz to test your knowledge.
 
-<img src="/screenshots/Quiz.jpg" width="300">
-<img src="/screenshots/ScoreQuiz.jpg" width="300">
+<table>
+  <tr>
+    <td><img src="/screenshots/Quiz.jpg" width="200"></td>
+    <td><img src="/screenshots/ScoreQuiz.jpg" width="200"></td>
+  </tr>
+</table>
 
 ### Feedback
 Provide feedback to improve the application.
 
-![Feedback Screenshot](/screenshots/feedback.png)
+<img src="/screenshots/feedback.png" width="300">
 
 ## System Requirements
 - Node.js
