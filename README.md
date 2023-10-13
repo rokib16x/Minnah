@@ -14,7 +14,8 @@ The "Minnah" application is a pioneering leap in the realm of modern technology,
 ## Features
 
 ### Home Screen
-![Home Screen](/screenshots/HomeScreen.jpg)
+<img src="/screenshots/HomeScreen.jpg" width="300">
+
 
 ### Al-Quran: Quranic Exploration
 Comprehensive access to Quranic verses, translations, and explanations (tafsir) for a deeper understanding.
