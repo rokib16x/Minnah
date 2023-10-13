@@ -13,40 +13,53 @@ The "Minnah" application is a pioneering leap in the realm of modern technology,
 
 ## Features
 
+![Home Screen](/screenshots/HomeScreen.jpg)
+
 ### Al-Quran: Quranic Exploration
 Comprehensive access to Quranic verses, translations, and explanations (tafsir) for a deeper understanding.
 
-![Al-Quran Screenshot](/screenshots/al-quran.png)
+![Al-Quran Screenshot 1](/screenshots/AllTheVerse.jpg)
+![Al-Quran Screenshot 2](/screenshots/ReadVerse.jpg)
+
+### Asma-ul-Husna 
+Access to the 99 Asma-ul-Husna
+
+![Asma-ul-Husna](/screenshots/AsmaAlHusna.jpg)
 
 ### Mosque Near Me
 Find nearby mosques for congregational prayers and community activities.
 
-![Mosque Near Me Screenshot](/screenshots/mosque-near-me.png)
+![Mosque Near Me Screenshot](/screenshots/MosqueNearMe.jpg)
 
 ### Zakat Calculator
 Simplify zakat calculations based on Islamic principles.
 
-![Zakat Calculator Screenshot](/screenshots/zakat-calculator.png)
+![Zakat Calculator Screenshot](/screenshots/ZakatCalculator.jpg)
 
-### Alarm For Salah
+### Salah Time
 Set customizable prayer time alarms.
 
-![Alarm For Salah Screenshot](/screenshots/alarm-for-salah.png)
+![Alarm For Salah Screenshot](/screenshots/SalahTime.jpg)
 
 ### Tasbih
 A digital tasbih for counting tasbih and dhikr.
 
-![Tasbih Screenshot](/screenshots/tasbih.png)
+![Tasbih Screenshot](/screenshots/Tasbih.jpg)
 
 ### Donation
 Facilitate charitable donations to trusted organizations.
 
-![Donation Screenshot](/screenshots/donation.png)
+![Donation Screenshot 1](/screenshots/DonatePage.jpg)
+![Donation Screenshot 2](/screenshots/DonationToMinnah.jpg)
+![Donation Screenshot 3](/screenshots/DonationToCharity.jpg)
+
 
 ### Game
 Enjoy a digital quiz to test your knowledge.
 
-![Game Screenshot](/screenshots/game.png)
+![Game Screenshot 1](/screenshots/Quiz.jpg)
+![Game Screenshot 2](/screenshots/ScoreQuiz.jpg)
+
 
 ### Feedback
 Provide feedback to improve the application.
@@ -60,8 +73,8 @@ Provide feedback to improve the application.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/minnah-app.git`
-2. Navigate to the project directory: `cd minnah-app`
+1. Clone the repository: `https://github.com/rokib16x/Minnah.git`
+2. Navigate to the project directory: `cd Minnah`
 3. Install dependencies: `npm install`
 
 ## Usage
