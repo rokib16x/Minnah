@@ -54,4 +54,27 @@ Provide feedback to improve the application.
 ![Feedback Screenshot](/screenshots/feedback.png)
 
 ## System Requirements
-...
+- Node.js
+- React Native
+- Additional system requirements specific to your project
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/yourusername/minnah-app.git`
+2. Navigate to the project directory: `cd minnah-app`
+3. Install dependencies: `npm install`
+
+## Usage
+
+- To run the app: `npm start`
+- Additional usage instructions specific to your project
+
+## Contributing
+
+We welcome contributions to the Minnah App. To contribute, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch for your feature or bug fix
+3. Make your changes and commit them
+4. Push to your fork and submit a pull request
+
